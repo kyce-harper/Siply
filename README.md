@@ -41,5 +41,6 @@ I built this app to create a **seamless** and **engaging** way to track hydratio
 
 <img width="330" alt="Screenshot 2025-03-10 at 8 14 03 PM" src="https://github.com/user-attachments/assets/bf9e71c6-09be-47e2-b07f-f1882ccd6703" />
 <img width="324" alt="Screenshot 2025-03-10 at 8 14 17 PM" src="https://github.com/user-attachments/assets/d2334daa-888f-4a9e-b113-9b3beb3267f4" />
+<img width="330" alt="Screenshot 2025-03-10 at 8 14 30 PM" src="https://github.com/user-attachments/assets/c267a9fa-d8a3-4258-95a1-82a0437709fb" />
 
 
