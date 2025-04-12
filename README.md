@@ -1,7 +1,7 @@
 # 💧 Water Tracker App
 
 ## 📌 About the Project
-This is a beautifully simple water tracking app designed to help users build better hydration habits. My goal was to create an intuitive, aesthetically pleasing experience that makes logging daily water intake effortless.
+This is a beautifully simple water tracking app designed to help users build better hydration habits. My goal was to create an intuitive, aesthetically pleasing experience that makes logging daily water intake effortless. The Code is Not Live and not regularly documented on here. Coming to the AppStore Soon 👀
 
 This project deepened my knowledge of **SwiftUI**, **@AppStorage for persistent data**, and **animation techniques** for visually tracking progress. It also pushed me to refine UI/UX to keep things clean, minimal, and easy to use.
 
@@ -41,3 +41,5 @@ I built this app to create a **seamless** and **engaging** way to track hydratio
 
 <img width="330" alt="Screenshot 2025-03-10 at 8 14 03 PM" src="https://github.com/user-attachments/assets/bf9e71c6-09be-47e2-b07f-f1882ccd6703" />
 <img width="324" alt="Screenshot 2025-03-10 at 8 14 17 PM" src="https://github.com/user-attachments/assets/d2334daa-888f-4a9e-b113-9b3beb3267f4" />
+
+
