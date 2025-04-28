@@ -39,12 +39,7 @@ I built this app to create a **seamless** and **engaging** way to track hydratio
 ---
 💙 **Stay hydrated, stay healthy.** Let me know what you think!
 
-<img width="330" alt="![Screenshot 2025-04-27 at 9 17 31 PM](https://github.com/user-attachments/assets/33dbcafd-0f49-49a1-897b-7c2331b07f79)
-" src="![Screenshot 2025-04-27 at 9 17 31 PM](https://github.com/user-attachments/assets/49ce7a82-be14-4b69-aa0c-44e7d2e130cb)
-" />
-<img width="324" alt="Screenshot 2025-03-10 at 8 14 17 PM" src="![Screenshot 2025-04-27 at 9 17 52 PM](https://github.com/user-attachments/assets/5b85e53c-5ce7-4032-9520-a5ccecdd37ca)
-" />
-<img width="330" alt="Screenshot 2025-03-10 at 8 14 30 PM" src="![Screenshot 2025-04-27 at 9 18 07 PM](https://github.com/user-attachments/assets/cdf1490f-eac7-4bde-b41d-25e4f469223a)
-" />
-
+<img width="330" alt="Screenshot 2025-04-27 at 9 17 31 PM" src="https://github.com/user-attachments/assets/33dbcafd-0f49-49a1-897b-7c2331b07f79" />
+<img width="324" alt="Screenshot 2025-03-10 at 8 14 17 PM" src="https://github.com/user-attachments/assets/5b85e53c-5ce7-4032-9520-a5ccecdd37ca" />
+<img width="330" alt="Screenshot 2025-03-10 at 8 14 30 PM" src="https://github.com/user-attachments/assets/cdf1490f-eac7-4bde-b41d-25e4f469223a" />
 
